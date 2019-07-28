@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "jsx": "react",
+        "jsxFactory": "h",
+        "noImplicitAny": true
+    },
+    "include": [
+        "src/*.tsx"
+    ]
+}
