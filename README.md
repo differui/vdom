@@ -1,6 +1,13 @@
 Rebound: "Let's Build a Virtual DOM from Scratch"
 =====
 
+## Setup
+
+```bash
+npm install
+npx parcel ./index.html
+```
+
 ## Refs
 
 + [prezzy-vdom-example](https://github.com/heiskr/prezzy-vdom-example)
